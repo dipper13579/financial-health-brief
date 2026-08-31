@@ -1,0 +1,71 @@
+transaction_id,date,account,category,description,amount,currency,status,source,source_version,amount_status
+TX-1001,2026-08-03,operations,staffing,contractor payroll batch A,8000.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1002,2026-08-05,operations,staffing,contractor payroll batch B,7500.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1003,2026-08-06,operations,supplies,facility supplies,2800.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1004,2026-08-07,marketing,marketing,summer enrollment campaign,2800.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1013,2026-08-03,operations,facilities,monthly cleaning service,1800.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1014,2026-08-04,technology,software,learning platform subscription,1250.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1015,2026-08-04,operations,utilities,electricity and water,960.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1016,2026-08-05,operations,facilities,air-conditioning repair,740.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1017,2026-08-06,marketing,marketing,search campaign adjustment,620.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1018,2026-08-06,finance,refunds,parent billing correction,350.00,USD,disputed,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1019,2026-08-07,operations,utilities,internet service,420.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1020,2026-08-07,technology,software,attendance tool seats,480.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1021,2026-08-08,operations,supplies,art classroom materials,360.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1022,2026-08-08,operations,facilities,security inspection,510.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1005,2026-08-10,operations,staffing,contractor payroll batch C,4500.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1006,2026-08-10,operations,supplies,classroom supplies,900.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1007,2026-08-10,finance,refunds,approved tuition refund,500.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1023,2026-08-10,operations,utilities,late utility adjustment,275.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1024,2026-08-10,technology,software,one-time migration support,600.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1008,2026-08-11,operations,supplies,kitchen supplies,650.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1009,2026-08-11,marketing,marketing,campaign placement,900.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1010,2026-08-11,marketing,marketing,community event deposit,1250.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1011,2026-08-11,finance,refunds,tuition refund request,900.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1012,2026-08-11,finance,refunds,duplicate charge dispute,700.00,USD,disputed,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1025,2026-08-11,operations,facilities,emergency plumbing estimate,,USD,pending,operations-ledger,ledger-2026-08-11-v2,unknown
+TX-1026,2026-08-03,finance,insurance,annual liability premium,2400.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1027,2026-08-03,finance,professional-services,payroll tax consultation,950.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1028,2026-08-03,operations,supplies,cleaning consumables,285.40,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1029,2026-08-03,technology,software,parent messaging add-on,210.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1030,2026-08-03,operations,facilities,playground inspection deposit,400.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1031,2026-08-04,operations,staffing,substitute instructor hours,680.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1032,2026-08-04,marketing,marketing,local flyer printing,325.75,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1033,2026-08-04,operations,utilities,mobile service,185.20,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1034,2026-08-04,finance,refunds,registration fee dispute,240.00,USD,disputed,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1035,2026-08-04,finance,professional-services,bookkeeping retainer,600.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1036,2026-08-05,operations,supplies,kitchen restock,430.60,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1037,2026-08-05,operations,facilities,fire alarm maintenance,875.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1038,2026-08-05,technology,software,video conferencing seats,144.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1039,2026-08-05,marketing,marketing,digital campaign placement,2144.25,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1040,2026-08-05,finance,insurance,cyber coverage endorsement,320.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1041,2026-08-06,operations,staffing,overtime coverage,420.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1042,2026-08-06,finance,professional-services,legal policy review,720.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1043,2026-08-06,operations,utilities,waste collection,190.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1044,2026-08-06,finance,refunds,scholarship adjustment,300.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1045,2026-08-06,operations,facilities,window repair estimate,,USD,pending,operations-ledger,ledger-2026-08-11-v2,unknown
+TX-1046,2026-08-07,operations,supplies,sensory room materials,520.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1047,2026-08-07,marketing,marketing,referral event signage,430.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1048,2026-08-07,finance,insurance,workers compensation installment,1100.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1049,2026-08-07,technology,software,device management renewal,456.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1050,2026-08-07,finance,professional-services,background screening invoice,275.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1051,2026-08-08,operations,staffing,weekend workshop instructors,900.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1052,2026-08-08,operations,supplies,workshop refreshments,310.25,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1053,2026-08-08,operations,facilities,weekend cleaning,360.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1054,2026-08-08,finance,refunds,disputed card fee,85.00,USD,disputed,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1055,2026-08-09,technology,software,domain renewal,96.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1056,2026-08-09,operations,utilities,weekend security monitoring,140.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1057,2026-08-09,finance,professional-services,emergency translation,260.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1058,2026-08-09,marketing,marketing,community fair booth,475.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1059,2026-08-10,operations,staffing,substitute instructor hours,720.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1060,2026-08-10,operations,supplies,damaged goods credit,-125.50,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1061,2026-08-10,operations,facilities,repair invoice original,980.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1062,2026-08-10,operations,facilities,repair invoice correction,-180.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1063,2026-08-10,finance,insurance,claim deductible review,600.00,USD,disputed,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1064,2026-08-10,finance,professional-services,accreditation filing,410.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1065,2026-08-11,operations,staffing,payroll correction,350.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1066,2026-08-11,technology,software,prorated license credit,-75.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1067,2026-08-11,operations,utilities,meter correction,125.35,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1068,2026-08-11,finance,professional-services,compliance consultation,800.00,USD,posted,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1069,2026-08-11,finance,insurance,premium adjustment,500.00,USD,pending,operations-ledger,ledger-2026-08-11-v2,confirmed
+TX-1070,2026-08-11,marketing,marketing,placement duplicate under review,450.00,USD,disputed,operations-ledger,ledger-2026-08-11-v2,confirmed

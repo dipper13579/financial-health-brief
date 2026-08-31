@@ -1,0 +1,11 @@
+period,category,budget_amount,currency,owner,review_rule,source,source_version
+2026-08,staffing,21000.00,USD,operations,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,supplies,4500.00,USD,operations,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,marketing,6000.00,USD,marketing,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,refunds,1300.00,USD,finance,review_all_pending_or_disputed,finance-budget,budget-2026-08-v3
+2026-08,facilities,4200.00,USD,operations,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,software,2600.00,USD,technology,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,utilities,1800.00,USD,operations,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,training,1500.00,USD,operations,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,insurance,3000.00,USD,finance,review_material_overage,finance-budget,budget-2026-08-v3
+2026-08,professional-services,2500.00,USD,finance,review_material_overage,finance-budget,budget-2026-08-v3
