@@ -102,9 +102,9 @@ Monthly targets are not prorated. Favorable and unfavorable variances use the sa
 
 | Role | Owner | Spreadsheet ID | Sheet/export identity | Fetched at (UTC) | Source version(s) | Rows | Viewer URL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| transactions | Operations | 16HhjfR9uG1oUwSFNjQvAvU9Q9gVjzxL0ufBzTJe82v8 | Project 1 Financial Health Brief — Transaction Ledger - Transaction ledger | 2026-08-31T22:34:02+00:00 | ledger-2026-08-11-v2 | 70 | https://docs.google.com/spreadsheets/d/16HhjfR9uG1oUwSFNjQvAvU9Q9gVjzxL0ufBzTJe82v8/edit |
-| budget | Finance | 1pnHBrxWvZBDIQItyxhmaSUZBxF8VMYqo_fyN7JtgyA4 | Project 1 Financial Health Brief — Budget Targets - Budget targets | 2026-08-31T22:34:02+00:00 | budget-2026-08-v3 | 10 | https://docs.google.com/spreadsheets/d/1pnHBrxWvZBDIQItyxhmaSUZBxF8VMYqo_fyN7JtgyA4/edit |
-| revenue | Finance | 1DToTpZtuwtVIdCPethZRe4T-y6mxGpWuivWSmR2XZt4 | Project 1 Financial Health Brief — Revenue Snapshot - Revenue snapshot | 2026-08-31T22:34:03+00:00 | revenue-2026-08-03-v1, revenue-2026-08-05-v1, revenue-2026-08-07-v1, revenue-2026-08-10-v1, revenue-2026-08-11-v2 | 25 | https://docs.google.com/spreadsheets/d/1DToTpZtuwtVIdCPethZRe4T-y6mxGpWuivWSmR2XZt4/edit |
+| transactions | Operations | 16HhjfR9uG1oUwSFNjQvAvU9Q9gVjzxL0ufBzTJe82v8 | Project 1 Financial Health Brief — Transaction Ledger - Transaction ledger | 2026-09-01T07:50:45+00:00 | ledger-2026-08-11-v2 | 70 | https://docs.google.com/spreadsheets/d/16HhjfR9uG1oUwSFNjQvAvU9Q9gVjzxL0ufBzTJe82v8/edit |
+| budget | Finance | 1pnHBrxWvZBDIQItyxhmaSUZBxF8VMYqo_fyN7JtgyA4 | Project 1 Financial Health Brief — Budget Targets - Budget targets | 2026-09-01T07:50:46+00:00 | budget-2026-08-v3 | 10 | https://docs.google.com/spreadsheets/d/1pnHBrxWvZBDIQItyxhmaSUZBxF8VMYqo_fyN7JtgyA4/edit |
+| revenue | Finance | 1DToTpZtuwtVIdCPethZRe4T-y6mxGpWuivWSmR2XZt4 | Project 1 Financial Health Brief — Revenue Snapshot - Revenue snapshot | 2026-09-01T07:50:47+00:00 | revenue-2026-08-03-v1, revenue-2026-08-05-v1, revenue-2026-08-07-v1, revenue-2026-08-10-v1, revenue-2026-08-11-v2 | 25 | https://docs.google.com/spreadsheets/d/1DToTpZtuwtVIdCPethZRe4T-y6mxGpWuivWSmR2XZt4/edit |
 
 ## Approval and safety boundary
 
